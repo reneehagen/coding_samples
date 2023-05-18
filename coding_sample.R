@@ -28,7 +28,7 @@ library(tidybayes)
 ### Load data and filter rows
 
 # Load data
-psid <- readRDS(file = "data/psid_clean.RDS")
+psid <- read.csv("https://raw.githubusercontent.com/reneehagen/coding_samples/main/psid_clean.csv")
 
 # Filter rows 
 d <- psid %>%
