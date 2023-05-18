@@ -125,7 +125,7 @@ message("Start modeling...")
 
 t1 <- Sys.time()
 
-m <- brm(data = d,
+fit <- brm(data = d,
          family = hurdle_lognormal(),
          formula = bf(
            
@@ -176,9 +176,6 @@ message(paste("Model run time: ", round(difftime(t2, t1, units='mins'), digits =
 theme_new <- theme_bw(base_size = 14,
                       base_rect_size = 0,
                       base_line_size = 0)
-
-# Load model fit
-fit <- readRDS("fit.rds")
 
 # Some posterior predictive checks
 pred <- posterior_predict(fit, re_formula = NA)
