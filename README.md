@@ -8,6 +8,7 @@
 <!-- - 💬 I'm passionate about **bayesian multilevel modeling** and **data visualization** -->
 
 - 📫 Reach me at **reneehagen@gmail.com**
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renee-hagen" height="14" width="18" />  Connect with me on [LinkedIn](https://www.linkedin.com/in/renee-hagen/)
 
 <h3 align="left">Coding samples:</h3>
 <p align="left">
@@ -16,11 +17,6 @@ I've added a few coding samples to this portfolio, with more to come! For now, y
 - A [Bayesian multilevel model](https://github.com/reneehagen/coding_samples/bayesian_multilevel_modeling) estimating the effect of having children on mothers' and fathers' income (in R)
 - A [program to analyze my athletic activities](https://github.com/reneehagen/coding_samples/strava_api), including a Strava API connector (in Python)
 - A [Shiny App](https://github.com/reneehagen/coding_samples/mapping_project) in which I map spatial data of the US 5-year Census (in R)
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/renee-hagen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renee-hagen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
