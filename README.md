@@ -21,7 +21,8 @@
 <p align="left">
 I've added just a few coding samples to this portfolio, with more to come! For now, you can explore these projects:
 
-- A Bayesian multilevel model estimating the effect of having children on mothers' and fathers' income (in R)
-- A program to analyze my athletic activities, including a Strava API connector (in Python)
+- A [Bayesian multilevel model](https://github.com/reneehagen/coding_samples/bayesian_multilevel_modeling) estimating the effect of having children on mothers' and fathers' income (in R)
+- A [program to analyze my athletic activities](https://github.com/reneehagen/coding_samples/strava_api), including a Strava API connector (in Python)
+- A [Shiny App](https://github.com/reneehagen/coding_samples/mapping_project) in which I map spatial data of the US 5-year Census (in R)
 
 </p>
