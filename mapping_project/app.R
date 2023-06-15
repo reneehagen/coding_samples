@@ -1,5 +1,6 @@
-source("mapUtils.R", local = F)
+source("map_utils.R", local = F)
 
+### Create user interface
 ui <- fluidPage(
   titlePanel("Mapping Project"),
   tabsetPanel(
@@ -39,12 +40,10 @@ ui <- fluidPage(
   )
 )
 
-
+### Set up server side
 server <- function(input, output, session) {
   
-  ################# map tab
-  
-  # creates dropdown for level of analysis depending on country
+  # creates dropdown for level of analysis depending on country and level
   leveloptions <- reactiveValues(value = c("", ""))
   
   observeEvent(input$inputcountry, {
