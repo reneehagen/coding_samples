@@ -28,7 +28,7 @@ library(tidybayes)
 ### Load data and filter rows
 
 # Load data
-psid <- read.csv("https://raw.githubusercontent.com/reneehagen/coding_samples/main/psid_clean.csv")
+psid <- read.csv("https://raw.githubusercontent.com/reneehagen/coding_samples/bayesian_multilevel_modeling/psid_clean.csv")
 
 # Filter rows 
 d <- psid %>%
