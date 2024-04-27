@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Renée Hagen!</h1>
 <h3 align="center">A passionate data scientist, policy researcher and fullstack developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/reneehagen/coding_samples](https://github.com/reneehagen/coding_samples)
+- 👨‍💻 A selection of coding projects is available at [https://github.com/reneehagen/coding_samples](https://github.com/reneehagen/coding_samples)
 
 - 📝 Check out my website at [https://www.reneehagen.com/](https://www.reneehagen.com/)
 
